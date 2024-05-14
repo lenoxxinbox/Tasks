@@ -1,5 +1,6 @@
-public class MultiplicationTable {
-    public static void main(String[] args) {
+/* Вывести на экран таблицу умножения */
+
+public static void main(String[] args) {
         MultiplicationTable.prinMultiplicationTable();
     }
     public static void prinMultiplicationTable() {
